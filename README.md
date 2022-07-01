@@ -4,6 +4,7 @@
 [![Latest Release](https://img.shields.io/github/v/release/vbehar/helm3-unittest)](https://github.com/vbehar/helm3-unittest/releases)
 
 This is a fork of <https://github.com/lrills/helm-unittest> for Helm 3.
+Hacked for `mulf` support (Sprig update).
 
 ## Documentation
 
